@@ -953,6 +953,7 @@
 -   [Blender For Dummies by Jason van Gumster](https://www.amazon.com/Blender-Dummies-Computer-Tech/dp/1119616964)
 -   [Blender Secrets by Jan van den Hemel](https://www.blendersecrets.org/book)
 -   [Blender 3D Architect by Allan Brito](https://www.blender3darchitect.com/blender-books/)
+-   [Universal Scene Description in Action by Linfan Zhang, Andy Green](https://www.manning.com/books/universal-scene-description-in-action)
 
 ---
 
